@@ -10,4 +10,3 @@ Open the notebook using Anaconda / Jupyter Notebook and run all cells.
 - Loops & Conditionals
 - Dictionaries
 - OOP (Classes)
-- Regex (optional)
